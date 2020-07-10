@@ -1,6 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... a cool tourism app that will change the way we travel and discover new places.
-- 🌱 I’m currently learning ... Golang, Javascript, about how I can communicate better, to play guitar.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on a cool tourism app that will change the way we travel and discover new places.
+- 🌱 I’m currently learning Golang, Javascript, about how I can communicate better, to play guitar.
